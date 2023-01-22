@@ -5,8 +5,7 @@
 | ![Mobile](./images/preview-mobile.png) | ![Desktop](./images/preview-desktop.png) | 
 
 <div align="center">
-  <h2><a href="https://veraenders.github.io/
-qr-code-component/">Live</a>
+  <h2><a href="https://veraenders.github.io/qr-code-component/">Live</a>
   <span> | </span> 
   <a href="https://github.com/VeraEnders/qr-code-component">Code</a></h2>
   <div>This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">QR code component</a> on FrontendMentor.</div>
