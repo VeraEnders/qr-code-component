@@ -30,5 +30,4 @@ FrontendMentor - [@veraenders](https://www.frontendmentor.io/profile/veraenders)
 ## Acknowledgments
 
 Many thanks to everyone who read this Readme. If you have any suggestions, feel free to give me feedback. 
-
 I would also like to thank the authors and participants <a href="https://www.frontendmentor.io">frontendmentor.io</a>
