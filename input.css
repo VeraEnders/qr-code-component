@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Outfit', sans-serif;
+  }
+}
+
+a {
+  color: hsl(228, 68%, 43%);
+}
+
+a:hover {
+  color: hsl(228, 44%, 57%);
+}
